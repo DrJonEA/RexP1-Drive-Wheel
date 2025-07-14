@@ -1,6 +1,6 @@
 # RexP1-Drive-Wheel
 
-<img src="images/rexp1.png" alt="isolated" width="200"/>
+<img src="docs/images/rexp1.png" alt="isolated" width="200"/>
 Drive wheel for my RexP1 Astro Droid Project based on a RP2040Zero board. This Repo repreents the drive wheel subsystem for RexP1.
 
 Checkout the [videos guides](https://www.youtube.com/playlist?list=PLspDyukWAtRUPNdlktaOdk7os9TfTEFh1) to the project over on my [YouTube Channel DrJonEA](https://youtube.com/@drjonea).
